@@ -1,0 +1,25 @@
+div{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    color: white;
+}
+
+.inline{
+    display: inline;
+}
+
+.inline-block{
+    display: inline-block;
+}
+
+.block{
+    display: block;
+}
+
+.flex{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: flex-end;
+}
